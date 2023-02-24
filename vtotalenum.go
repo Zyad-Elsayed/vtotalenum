@@ -73,7 +73,7 @@ func main() {
 		}
 
 		req.Header.Add("accept", "application/json")
-		req.Header.Add("x-apikey", "5cb978c40b2b6d536521468ea7bacd77fb23ff9949ee9bb4ec77c2d5dc16dcb6")
+		req.Header.Add("x-apikey", "xxxxx")
 
 		res, err := http.DefaultClient.Do(req)
 		if err != nil {
