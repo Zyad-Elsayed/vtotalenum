@@ -13,7 +13,7 @@
 
 # guide 
 + ### to run it
-   go run multi.go path_to_domain_list.txt
+   go run vtotalenum.go path_to_domain_list.txt
 + ### output 
 
    output is stored in virustotal_{domain}.txt file and would be saved in the same directory 
