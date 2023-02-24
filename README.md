@@ -9,5 +9,5 @@
    ### to get virus total api key 
     - make account in virus-toal https://www.virustotal.com/gui/join-us 
     - then vist API key page from the upper rigt account icon https://www.virustotal.com/gui/user/{user_name}/apikey
-    - after that copy the api key and add it to the script 
+    - after that copy the api key and add it to the script in " req.Header.Add " line
   
